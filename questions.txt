@@ -1,0 +1,61 @@
+1. X = 'King George VI'
+
+2. X = 'Queen Mary'
+
+3. X = 'King George V'
+
+4. X = 'King George V' ;
+   X = 'Queen Mary'
+
+5. X = 'Prince William' ;
+   X = 'Prince Henry'
+
+6. X = 'Princess Margaret'
+
+7. X = 'Prince Charles' ;
+   X = 'Prince Andrew' ;
+   X = 'Prince Edward'
+
+8. X = 'Princess Anne'
+
+9. false
+
+10. X = 'Catherine Middleton'
+
+11. X = 'Prince Charles' ;
+    X = 'Lady Diana Spencer' ;
+    X = 'Queen Elizabeth II' ;
+    X = 'Prince Philip' ;
+    X = 'King George VI' ;
+    X = 'Lady Elizabeth Bowes-Lyon' ;
+    X = 'King George V' ;
+    X = 'Queen Mary' ;
+    X = 'King Edward VII' ;
+    X = 'Princess Alexandra of Denmark' ;
+    X = 'Prince Albert' ;
+    X = 'Queen Victoria'
+
+12. false
+
+13. false
+
+14. X = 'Lady Elizabeth Bowes-Lyon' ;
+    X = 'Prince Philip'
+
+15. X = 'King George V'
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+EC1. X = 'Viscount Linley' ;
+     X = 'Lady Sarah Chatto'
+
+EC2. X = 'Viscount Linley' ;
+     X = 'Lady Sarah Chatto'

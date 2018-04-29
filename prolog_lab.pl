@@ -2,7 +2,7 @@ mother(M,C):- parent(M,C), female(M).
 
 father(F,C):- parent(F,C), male(F).
 
-spouse(M,W):- married(M,W).
+spouse(X,Y):- married(X,Y); married(Y,X).
 
 child(C,P):- parent(P,C).
 
@@ -35,7 +35,12 @@ ancestor(A,D):- parent(P,D), ancestor(A,P).
 
 descendant(D,A):- ancestor(A,D).
 
-older(O,Y):- born(O,Year1), born(Y,Year2), Year1 < Year2.
+age(X,Age):- born(X,Born),
+             (died(X,Died) -> Age is (Died-Born);
+             Age is (2018-Born)).
+
+older(O,Y):- age(O,Age1), age(Y,Age2),
+             Age1 > Age2.
 
 younger(Y,O):- older(O,Y).
 
