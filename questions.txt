@@ -44,15 +44,24 @@
 
 15. X = 'King George V'
 
-16.
+16. I like how Prolog is unlike any other language I've used. It's cool that it
+	can be such a powerful language for things like computational linguistics and 
+	artificial intelligence while also allowing a game to be made with it.
 
-17.
+17. It took me a while to wrap my head around how the language functions, especially
+	the fact that there are no return values. Rather than getting a value in return, 
+	you have to pass a variable into the rule. This makes sense to me now, but was
+	frustrating at first.
 
-18.
+18. I did enjoy the lab. It was nice to write simple logical rules and have Prolog 
+	solve them while hiding details of how it was executed. This got rid of a lot of
+	the repetition of this being programmed in a different language. I also enjoyed 
+	learning about the royal family tree along the way.
 
-19.
+19. 5
 
-20.
+20. Possibly. It doesn't seem like it has much of a place in software engineering but 
+	maybe it will be used in the artificial intelligence class.
 
 EC1. X = 'Viscount Linley' ;
      X = 'Lady Sarah Chatto'
